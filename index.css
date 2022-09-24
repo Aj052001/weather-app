@@ -1,0 +1,18 @@
+*{
+    margin: 0;padding: 0;
+}
+body{
+    background-color: #eee;
+}
+.box{
+    /* border: 2px solid black; */
+    height: 20rem;
+    width: 15rem;
+    background-color: aqua;
+    border-radius: 1rem;
+    box-shadow: 0px -3px 125px -16px rgba(40, 103, 99, 0.47);
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    padding: 5rem;
+}
